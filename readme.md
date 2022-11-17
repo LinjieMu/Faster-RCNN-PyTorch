@@ -1,0 +1,1 @@
+The project compeletes the Faster R-CNN during study based on torchvision. 
